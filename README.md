@@ -1,6 +1,6 @@
 ﻿# AKC_Node_Chat-App
  
- AKC Chika App - Node Chat-App created by Developed by Kevin C. Astillero - BSIT3-2
+ AKC Chika App - Node Chat-App Developed by Kevin C. Astillero - BSIT3-2
  
  
  ![Screenshot (1175)](https://user-images.githubusercontent.com/96113707/209712733-38734ff2-7c7f-4bfe-b96b-551a012967ee.png)
